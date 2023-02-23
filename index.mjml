@@ -9,7 +9,7 @@
     </mj-raw>
     <mj-section background-color="#343937" padding="0px">
       <mj-column>
-        <mj-text color="#ffffff" align="center" font-family="UniversLTStd, Arial" font-size="13px">Abrir no <a href="#" style="color:#ffffff;" target="_blank">browser</a>.</mj-text>
+        <mj-text color="#ffffff" align="center" font-family="UniversLTStd, Arial" font-size="13px">Abrir no <a href="https://jarg1976.github.io/semana-do-patrono-2023/" style="color:#ffffff;" target="_blank">browser</a>.</mj-text>
       </mj-column>
     </mj-section>
     
