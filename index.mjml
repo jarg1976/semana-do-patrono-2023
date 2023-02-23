@@ -28,7 +28,7 @@
     </mj-section>
     <mj-section background-color="#FFF" padding="0px">
       <mj-column width="100%">
-        <mj-image width="600px" src="/img/mini-header.png" align="center" border="none" padding="0px" alt="Semana do Patrono 2023 - Programa"></mj-image>
+        <mj-image width="600px" src="img/mini-header.png" align="center" border="none" padding="0px" alt="Semana do Patrono 2023 - Programa"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section>
@@ -57,13 +57,13 @@
     </mj-section>
    <mj-section background-color="#FFF"  padding="0px">
       <mj-column>
-        <mj-image align="center" width="600px" src="/img/program.png" href="esjaloures.org" title="Consultar Programa" alt="Consultar Programa"></mj-image>
+        <mj-image align="center" width="600px" src="img/program.png" href="esjaloures.org" title="Consultar Programa" alt="Consultar Programa"></mj-image>
       </mj-column>
     </mj-section>
      
       <mj-section background-color="#FFF"  padding="0px">
       <mj-column width="50%">
-        <mj-image align="center" width="400px" src="/img/logo-esjaloures.png" href="esjaloures.org" title="Agrupamento de Escolas José Afonso Loures" alt="Agrupamento de Escolas José Afonso Loures"></mj-image>
+        <mj-image align="center" width="400px" src="img/logo-esjaloures.png" href="esjaloures.org" title="Agrupamento de Escolas José Afonso Loures" alt="Agrupamento de Escolas José Afonso Loures"></mj-image>
       </mj-column>
     </mj-section>
      <mj-section padding="0px">
