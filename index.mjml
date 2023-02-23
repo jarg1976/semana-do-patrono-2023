@@ -13,12 +13,6 @@
       </mj-column>
     </mj-section>
     
-    <mj-section padding="0px">
-    	<mj-column>
-      	<mj-divider border-width="2px" border-color="#d01021" width="45%" padding="15px"></mj-divider>
-      </mj-column> 
-    </mj-section>
-    
     <mj-section  padding="0px" background-color="#ffffff" text-align="center">
       <mj-column>
         <mj-text align="center" color="#55575d" font-family="Arial, sans-serif" font-size="20px">
@@ -28,7 +22,7 @@
     </mj-section>
     <mj-section background-color="#FFF" padding="0px">
       <mj-column width="100%">
-        <mj-image width="600px" src="img/mini-header.png" align="center" border="none" padding="0px" alt="Semana do Patrono 2023 - Programa"></mj-image>
+        <mj-image href="esjaloures.org" width="600px" src="img/header.png" align="center" border="none" padding="0px" alt="Semana do Patrono 2023 - Programa"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section background-color="#FFF" padding="30px 0 0 0">
@@ -59,7 +53,7 @@
     </mj-section>
    <mj-section background-color="#FFF"  padding="0px">
       <mj-column>
-        <mj-image align="center" width="600px" src="img/program.png" href="esjaloures.org" title="Consultar Programa" alt="Consultar Programa"></mj-image>
+        <mj-image align="center" width="600px" src="img/bar.png" href="esjaloures.org" title="Consultar Programa" alt="Consultar Programa"></mj-image>
       </mj-column>
     </mj-section>
      
