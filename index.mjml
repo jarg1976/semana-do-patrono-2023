@@ -33,7 +33,7 @@
     </mj-section>
     <mj-section>
       <mj-column width="11%">
-        <mj-image padding-right="0px" padding-left="25px" align="left" width="350px" src="/img/diretora.png"></mj-image>
+        <mj-image padding-right="0px" padding-left="25px" align="left" width="350px" src="img/diretora.png"></mj-image>
       </mj-column>
       <mj-column width="89%">
         <mj-text padding="0 25px" font-size="14px">
