@@ -1,0 +1,95 @@
+<mjml>
+  <mj-head>
+    <mj-title>Semana do Patrono 2023</mj-title>
+    
+  </mj-head>
+  <mj-body>
+    <mj-raw>
+      <!-- Top Bar -->
+    </mj-raw>
+    <mj-section background-color="#343937" padding="0px">
+      <mj-column>
+        <mj-text color="#ffffff" align="center" font-family="UniversLTStd, Arial" font-size="13px">Abrir no <a href="#" style="color:#ffffff;" target="_blank">browser</a>.</mj-text>
+      </mj-column>
+    </mj-section>
+    
+    <mj-section padding="0px">
+    	<mj-column>
+      	<mj-divider border-width="2px" border-color="#d01021" width="45%" padding="15px"></mj-divider>
+      </mj-column> 
+    </mj-section>
+    
+    <mj-section  padding="0px" background-color="#ffffff" text-align="center">
+      <mj-column>
+        <mj-text align="center" color="#55575d" font-family="Arial, sans-serif" font-size="20px">
+          <p style="color:#151e23; font-size:30p; font-family:Georgia,Helvetica,Arial,sans-serif">- À Volta do Mundo -</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#FFF" padding="0px">
+      <mj-column width="100%">
+        <mj-image width="600px" src="/img/header.png" align="center" border="none" padding="0px" alt="Semana do Patrono 2023 - Programa"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="11%">
+        <mj-image padding-right="0px" padding-left="25px" align="left" width="350px" src="/img/diretora.png"></mj-image>
+      </mj-column>
+      <mj-column width="89%">
+        <mj-text padding="0 25px" font-size="14px">
+          <p style="color:##151e23; line-height: 18px"> Maria Irene Tomé Louro
+            <br/>Diretora do Agrupamento de Escolas José Afonso, Loures
+          </p>
+          <p style="font-style: italic; color:#151e23; line-height: 19px">
+          É um desafio dirigir-me à comunidade educativa do Agrupamento de Escolas José Afonso, Loures, usando este novo meio de comunicação, lançado numa fase tão complexa para as escolas, e para quem nelas trabalha e aprende, e também para o mundo. Este meio de comunicação deve ser aproveitado por todos para podermos partilhar informação, dizermos aos outros como somos, mostrarmos o que fazemos e como estamos nesta sociedade de mudanças tão devastadoras a nível global e de incidência local.
+          </p>
+          <p style="font-style: italic; color:#151e23; line-height: 19px">
+            É prática nossa dedicar uma semana ao nosso patrono, José Afonso, desenvolvendo atividades nos seis estabelecimentos de ensino do Agrupamento. Este ano, essas atividades decorrem entre 27 de fevereiro e 2 de março, sob o lema “À volta do mundo”. Como sempre, pretendemos sensibilizar a comunidade escolar para as questões mais prementes do país, da Europa e do mundo, sempre numa ótica de liberdade, nomeadamente, de expressão, e de integração
+          </p>
+          <p style="font-style: italic; color:#151e23; line-height: 19px">
+            Até ao dia 24 de fevereiro de 2022, todos estávamos habituados a pensar que a humanidade e o mundo estariam num crescendo de desenvolvimento tecnológico, humanitário e civilizacional. Todos acreditávamos, apesar da pandemia que ainda nos fustigava, que tudo iria ficar melhor. Acreditávamos que, apesar das diferenças ideológicas, das guerras em diferentes partes do mundo, dos problemas sociais e económicos graves, em muitos povos e países, a Europa vivia uma fase de paz e estabilidade, preparando-se para recuperar da crise económica e social provocada pela pandemia. A partir desse dia, à volta do mundo tudo mudou. As perspetivas económicas globais sofreram um grave revés com a invasão da Ucrânia pela Rússia.
+          </p>
+          <p style="font-style: italic; color:#151e23; line-height: 19px">
+            Neste contexto de uma nova Guerra Fria, além do seu impacto humanitário trágico, a guerra atrasa o crescimento económico e o equilíbrio social. Neste momento, sente-se a fome e o desespero, onde há muito era inimaginável sentir-se. Vivemos um tempo de crise humanitária que há muito não sentíamos. Milhões de seres humanos, em grande número crianças e jovens que deviam estar na escola a aprender, sofrem as consequências brutais de uma guerra desumana e precisam de assistência urgente. Esta guerra provocou uma onda de refugiados numa escala não sentida desde a Segunda Guerra Mundial. Para agravar a situação de um ano de guerra, o terramoto na Síria e na Turquia demonstrou-nos, como o nosso planeta o faz tantas vezes, o quão frágeis somos e como estamos impreparados para responder às necessidades dos que mais precisam, no século XXI, que todos prevíamos e desejávamos de evolução e progresso.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+   <mj-section padding="0px">
+    	<mj-column>
+      	<mj-divider border-width="2px" border-color="#d01021" width="45%" padding="15px"></mj-divider>
+      </mj-column> 
+    </mj-section>
+    
+    <mj-section  padding="0px" background-color="#ffffff" text-align="center">
+      <mj-column>
+        <mj-text align="center" color="#55575d" font-family="Arial, sans-serif" font-size="30px">
+          <p style="color:#151e23; font-size:30p; font-family:Georgia,Helvetica,Arial,sans-serif">- Programa -</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Bottom Bar -->
+    </mj-raw>
+     
+      <mj-section background-color="#FFF"  padding="0px">
+      <mj-column width="50%">
+        <mj-image align="center" width="400px" src="/img/logo-esjaloures.png" href="esjaloures.org" title="Agrupamento de Escolas José Afonso Loures" alt="Agrupamento de Escolas José Afonso Loures"></mj-image>
+      </mj-column>
+    </mj-section>
+     <mj-section padding="0px">
+      <mj-column>
+        <mj-text mj-class="footer-text" align="center" padding="0 10px">
+         
+          <p style="Margin:0; padding-bottom:10px; font-size:10px; line-height:15px; Margin-bottom:10px; color:#111111; font-family: 'Open Sans', 'Raleway', Arial, Helvetica, sans-serif;">
+            <span style="color:#111111 !important; text-decoration:none;">
+              <strong>Escola Secundária de José Afonso (Escola sede)</strong>
+              <br />RUA da REPÚBLICA 2670 - 468 LOURES | Tel. +351 21 982 71 10 | Email esjaloures@esjaloures.org
+            </span>
+            <br />
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
